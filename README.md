@@ -1,4 +1,4 @@
-tljh_docker_rights
+tljh-docker-rights
 ==================
 
-Simple tljh plugin that gives a new user rights to the `docker` group.
+Simple [tljh](https://tljh.jupyter.org) plugin that gives a new user rights to the `docker` group.
